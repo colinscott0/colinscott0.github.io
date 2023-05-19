@@ -1,0 +1,16 @@
+header {
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+h1 {
+    margin: 0;
+    font-family: Consolas, monospace;
+}
+nav a {
+    margin-right: 10px;
+    color: #333;
+    text-decoration: none;
+}
