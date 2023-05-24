@@ -1,24 +1,5 @@
 header {
-    position: fixed;
-    padding: 20px;
-    text-align: center;
+    justify-content: space-between;
     align-items: center;
     display: flex;
-    justify-content: space-between;
-}
-h1 {
-    margin: 0;
-    font-family: Consolas, monospace;
-}
-nav a {
-    margin-right: 10px;
-    color: #333;
-    text-decoration: none;
-}
-
-#home {
-    background-color: rgb(194, 105, 17);
-    padding: 0;
-    width: 100%;
-    height: 7000px;
 }
