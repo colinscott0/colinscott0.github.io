@@ -3,3 +3,13 @@ header {
     align-items: center;
     display: flex;
 }
+#home {
+    background-color: brown;
+    position: relative;
+}
+.pic {
+    position: absolute;
+    top: 20px;
+    left: 450px;
+}
+
