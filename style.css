@@ -7,9 +7,30 @@ header {
     background-color: brown;
     position: relative;
 }
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
 .pic {
     position: absolute;
-    top: 20px;
-    left: 450px;
 }
+.intro {
+    margin-left: 50px;
+}
+p1 {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 50px;
+    color: aliceblue;
+}
+h2 {
+    font-size: 60px;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+}
+button {
+    margin-right: 30px;
+    font-size: 20pxs;
+}
+
 
