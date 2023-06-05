@@ -7,6 +7,9 @@ header {
     background-color: brown;
     position: relative;
 }
+nav > *{
+    margin-left: 20px;
+}
 .image-container {
     display: flex;
     justify-content: space-between;
