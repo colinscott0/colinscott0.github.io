@@ -15,7 +15,9 @@ nav > *{
     justify-content: space-between;
 }
 .pic {
-    position: absolute;
+    position: relative;
+    float: right;
+
 }
 .intro {
     margin-left: 50px;
@@ -34,6 +36,12 @@ h2 {
 button {
     margin-right: 30px;
     font-size: 20pxs;
+}
+#about-me {
+    width: 300px;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 100px;
 }
 
 
