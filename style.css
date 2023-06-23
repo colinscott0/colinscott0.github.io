@@ -39,5 +39,21 @@ button {
     margin-top: 100px;
     margin-left: 100px;
 }
+#projects {
+    text-align: center;
+    margin-top: 100px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    margin-top: 50px;
+}
+.basketball {
+    width: 100px;
+    height: 100px;
+}
+
+
 
 
